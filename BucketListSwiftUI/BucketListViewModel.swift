@@ -2,7 +2,7 @@
 //  BucketListViewModel.swift
 //  BucketListSwiftUI
 //
-//  Created by user on 9/2/23.
+//  Created by Tatiana on 9/2/23.
 //
 
 import Foundation
