@@ -40,7 +40,7 @@ class BucketListViewModel: ObservableObject {
             let data = try JSONEncoder().encode(listItems)
             try data.write(to: createPersistenseStore())
         } catch {
-            print("Error while saving list items")
+            print("Error while saving the list items")
         }
     }
     
