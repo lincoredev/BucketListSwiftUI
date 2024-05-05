@@ -2,7 +2,7 @@
 //  BucketListSwiftUIApp.swift
 //  BucketListSwiftUI
 //
-//  Created by user on 9/2/23.
+//  Created by Vova on 9/2/23.
 //
 
 import SwiftUI
