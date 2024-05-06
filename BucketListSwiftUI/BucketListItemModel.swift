@@ -8,7 +8,7 @@
 import Foundation
 
 struct BucketListItemModel: Identifiable, Equatable, Codable {
-    var name: Double
+    var name: Float
     var id = UUID()
     var isCompleted: Bool = false
 }
