@@ -43,6 +43,8 @@ class BucketListViewModel: ObservableObject {
             print("Error while saving the list items111")
         }
     }
+
+    // new comment1
     
     func loadFromPersistenceStore() {
         do {
